@@ -1,28 +1,33 @@
 # protfo
-# 🌐 Flask Portfolio Project
+🌐 Flask Portfolio Project
 
-## 🚀 Features
+🚀 Features
+⚡ Dynamic Flask Web Application
+🎨 Clean & Responsive UI using Templates
+🔗 API Integration with requests
+🖼️ Image Processing using Pillow
+🔐 Secure Authentication with JWT
 
-* Dynamic Flask Web App
-* Clean UI with Templates
-* API Integration (Requests)
-* Image Handling (Pillow)
-* Authentication (JWT)
+🛠️ Tech Stack
+🐍 Python
+🌐 Flask
+🎨 HTML, CSS
+📡 Twilio API (optional integration)
+▶️ Run Locally
 
-## 🛠️ Tech Stack
-
-* Python
-* Flask
-* HTML, CSS
-* Twilio API (if used)
-
-## ▶️ Run Locally
-
-```bash
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the application
 python app.py
-```
 
-## 📌 Author
+📌 Project Highlights
+Modular Flask structure (routes, templates, static files)
+Scalable backend design
+Beginner-friendly and production-ready base
+Easy to extend with new features (DB, login system, APIs)
 
+📌 Author
 Arbind Kumar Gupta
+💻 B.Tech IT Student
+🚀 Passionate about Web Development & Python
